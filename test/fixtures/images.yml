@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cover_id: 1
+  product_id: 1
+  filename: MyString
+  content_type: MyString
+
+two:
+  cover_id: 1
+  product_id: 1
+  filename: MyString
+  content_type: MyString
